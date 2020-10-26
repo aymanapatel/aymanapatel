@@ -54,6 +54,7 @@
  
 <div>
  
+![HitCount](http://hits.dwyl.com/aymanapatel/aymanapatel.svg)
 
 
 
