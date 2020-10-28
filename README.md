@@ -11,13 +11,15 @@
   </a>
 </p>
 
+![](https://komarev.com/ghpvc/?username=aymanapatel)
+
 <h3 align="center">
    🔭 Currently working and learning 🔭
    
 </h3>
 
 <h3 align="center">
- | 🦀 Rust 🦀 | Node.JS | Golang | Java
+ | Node.JS | Golang | Java
 </h3>
 
 <div>
