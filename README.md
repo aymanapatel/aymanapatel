@@ -19,7 +19,7 @@
 </h3>
 
 <h3 align="center">
- | Node.JS | Golang | Java
+ | Java | Microservices | Golang
 </h3>
 
 <div>
@@ -33,7 +33,8 @@
 ## Blogs 📄 
 
 1. [Docusaurus Blog](https://github.com/aymanapatel/docusaurus-blog)
-2. [Gatsby blog](https://github.com/aymanapatel/gatsby-blog-cms)
+
+<!-- 2. [Gatsby blog](https://github.com/aymanapatel/gatsby-blog-cms) -->
 
 # Projects I am working on
 
@@ -44,8 +45,8 @@
 <a href="https://github.com/aymanapatel/java-cli">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=java-cli" />
 </a> 
-<a href="https://github.com/aymanapatel/gatsby-blog-cms">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=gatsby-blog-cms" />
+<a href="https://github.com/aymanapatel/python-scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=python-scripts" />
 </a>   
 <a href="https://github.com/aymanapatel/graphql-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=graphql-app" />
@@ -53,11 +54,13 @@
  
 <div>
  
-![HitCount](http://hits.dwyl.com/aymanapatel/aymanapatel.svg)
 
 
+<!-- ![HitCount](http://hits.dwyl.com/aymanapatel/aymanapatel.svg) -->
 
 <!--
+
+
 **AymanArif/AymanArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
