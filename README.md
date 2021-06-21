@@ -19,7 +19,7 @@
 </h3>
 
 <h3 align="center">
- | Java | Microservices | Golang
+ | Java | Microservices | React
 </h3>
 
 <div>
@@ -32,8 +32,7 @@
 
 ## Blogs 📄 
 
-1. [Docusaurus Blog](https://github.com/aymanapatel/docusaurus-blog)
-
+**TODO** 
 <!-- 2. [Gatsby blog](https://github.com/aymanapatel/gatsby-blog-cms) -->
 
 # Projects I am working on
