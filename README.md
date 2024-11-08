@@ -48,7 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=python-scripts" />
 </a>   
 <a href="https://github.com/aymanapatel/graphql-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=graphql-app" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=graphql-zero-to-hero" />
 </a>     
  
 <div>
