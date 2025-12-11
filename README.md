@@ -18,17 +18,11 @@
    
 </h3>
 
-<h3 align="center">
- | Java | Microservices | React
-</h3>
+## Technologies stack
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aymanapatel&show_icons=true&layout=compact&theme=radical" height="175px" />
-</a>
-
-</div>  
+1. Java
+2. Typescript
+3. Python
 
 ## Blogs 📄 
 
