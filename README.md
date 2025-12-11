@@ -32,45 +32,6 @@
 
 ## Blogs 📄 
 
-**TODO** 
-<!-- 2. [Gatsby blog](https://github.com/aymanapatel/gatsby-blog-cms) -->
+[Blog](https://aymanace2049.hashnode.dev/)
 
-# Projects I am working on
-
-<div>
-<a href="https://github.com/aymanapatel/golang-microservices">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=golang-microservices" />
-</a>
-<a href="https://github.com/aymanapatel/java-cli">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=java-cli" />
-</a> 
-<a href="https://github.com/aymanapatel/python-scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=python-scripts" />
-</a>   
-<a href="https://github.com/aymanapatel/graphql-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aymanapatel&repo=graphql-app" />
-</a>     
- 
-<div>
- 
-
-
-<!-- ![HitCount](http://hits.dwyl.com/aymanapatel/aymanapatel.svg) -->
-
-<!--
-
-
-**AymanArif/AymanArif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
