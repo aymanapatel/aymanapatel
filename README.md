@@ -36,6 +36,8 @@
 - **23** total stars across public repos
 - Shipping on GitHub since **2015**
 
+![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aymanapatel&show_icons=true&theme=radical)
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=aymanapatel&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Ayman's GitHub Stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aymanapatel&layout=compact&hide_border=true&theme=transparent" alt="Top Languages" />
