@@ -59,3 +59,15 @@
 ### 📝 Blog
 
 - [Hashnode](https://aymanace2049.hashnode.dev/)
+
+<p align="center">
+  <a href="https://aymanace2049.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read my Hashnode blog" />
+  </a>
+</p>
+
+#### 🔗 Open Graph (Blog Link Metadata)
+
+- **og:url**: `https://aymanace2049.hashnode.dev/`
+- **og:type**: `website`
+- **og:site_name**: `Ayman Patel Blog`
