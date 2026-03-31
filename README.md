@@ -1,5 +1,4 @@
 <h1 align="center">Ayman Patel</h1>
-<h3 align="center">Ex-Mastercard Full Stack Engineer (India 🇮🇳) | Master's in Computer Science, Queen Mary University of London (UK 🇬🇧)</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ex--Mastercard-India%20%F0%9F%87%AE%F0%9F%87%B3-111111?style=flat-square&logo=mastercard&logoColor=white" alt="Ex Mastercard India" />
@@ -22,10 +21,12 @@
 
 ### About me
 
-- **Ex-Mastercard Full Stack Engineer (India 🇮🇳)**.
 - Currently pursuing a **Master's in Computer Science at Queen Mary University of London (UK 🇬🇧)**.
+- Also pursuing a AI Fellowship at **Nebius Academy(UK 🇬🇧)**.
+- **Ex-Mastercard Full Stack Engineer (India 🇮🇳)**.
 - Building practical software across **JavaScript, TypeScript, Java, and Python** with a growing focus on AI systems.
-- Interested in **AI engineering, frontend microfrontends, developer tooling, and scalable backend systems**.
+- Avid blogger and reader @ [Ayman Tech Musings](https://aymanace2049.hashnode.dev/)
+- Interested in **AI engineering, frontend microfrontends, scalable backend systems, database and scalable backend system**.
 
 ---
 
@@ -55,19 +56,6 @@
 - [`qmul-group-project`](https://github.com/aymanapatel/qmul-group-project) - Haskell project from QMUL coursework.
 - [`nebius-project`](https://github.com/aymanapatel/nebius-project) - AI/LLM-focused project work.
 
----
-
-### Writing and content
-
-- Blog: [aymanace2049.hashnode.dev](https://aymanace2049.hashnode.dev/)
-
----
-
-### Current focus
-
-- Designing agentic applications that are reliable in production.
-- Building tools that improve developer experience and iteration speed.
-- Learning in public and sharing practical takeaways.
 
 ---
 
